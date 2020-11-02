@@ -1,0 +1,3 @@
+﻿namespace WebViewNavigate.Skia.Gtk
+{
+}
